@@ -49,6 +49,6 @@ The **Customer Churn Predictor** is a Python-based project that helps identify p
 
 ---
 
-## Contribution
+## ⭐ Contribution
 
 Contributions are always welcome! Whether it's a bug fix, a new feature, or an improvement to the project.
